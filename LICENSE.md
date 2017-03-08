@@ -6,7 +6,7 @@ date: 2016-11-04 14:26:09 +0100
 
 # License information
 
-All data files (`.bib`, `.md`, `.xml`) in this [repository](https://github.com/OpenAraPE/digital-hilal) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) if not otherwise stated in the files themselves.
+All data files (`.bib`, `.md`, `.xml`) in this [repository](https://github.com/OpenArabicPE/digital-hilal) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) if not otherwise stated in the files themselves.
 
 All software (`.xql`, `.xsl`) in this repository with the exception of the "TEI Boilerplate" (in [`xslt-boilerplate/`](xslt-boilerplate/))  is licensed under MIT license (see below) if not otherwise stated in the files themselves.
 
